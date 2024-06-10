@@ -1,0 +1,16 @@
+
+[{"id": 1, "questionText":  "Дракон в Хелгене! Невиданно! Судьба спасла тебя от плахи. Куда дальше?",
+  "answers": [{"answerText":"Бежим в башню!", "nextQuestionId": 2}, {"answerText":"Бежим на площадь!", "nextQuestionId": 12}]
+},
+  {"id": 2, "questionText":  "Ты забежал в башню, а оттуда прыгнул на крышу дома. Пробежав несколько метров ты увидел имперца и мятежника из Братьев Бури. За кем пойдешь?",
+    "answers": [{"answerText": "Бежим с мятежником", "nextQuestionId": 31}, {"answerText": "Бежим с имперцем", "nextQuestionId": 32}]},
+  {"id":  12, "questionText": "Ты побежал на городскую площадь, где тебя поджидал дракон",
+    "answers":  [{"answerText": "Продолжить", "nextQuestionId": 5}, {"answerText": null, "nextQuestionId": 5}]},
+  {"id": 32, "questionText": "Ты пошел за имперцем. Вместе вы выбрались из Хелгена и отправились в ближайший пункт набора новобранцев",
+    "answers": [{"answerText": "Продолжить", "nextQuestionId": 4}, {"answerText": null, "nextQuestionId": 4}]},
+  {"id": 31, "questionText": "Ты пошел за мятежником. Вместе вы выбрались из Хелгена и отправились в ближайший лагерь Братьев Бури",
+    "answers": [{"answerText": "Продолжить", "nextQuestionId": 4}, {"answerText": null, "nextQuestionId": 4}]},
+  {"id": 4, "questionText": "",
+    "answers": [{"answerText": "", "nextQuestionId": 9}, {"answerText": null, "nextQuestionId": 9}]},
+  {"id": 5, "questionText": "",
+    "answers": [{"answerText": "", "nextQuestionId": 8}, {"answerText": null, "nextQuestionId": 8}]}]
